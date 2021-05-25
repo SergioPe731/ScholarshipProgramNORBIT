@@ -1,0 +1,13 @@
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\bin\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.exe
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\bin\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.deps.json
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\bin\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.runtimeconfig.json
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\bin\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\bin\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.dll
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\bin\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.pdb
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\obj\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\obj\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\obj\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\obj\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\obj\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.dll
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\obj\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.pdb
+C:\Users\Сергей\source\repos\StependNORBIT_Peretyatko_Sergey\obj\Debug\netcoreapp3.1\StependNORBIT_Peretyatko_Sergey.genruntimeconfig.cache
